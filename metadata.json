@@ -1,0 +1,7 @@
+{
+  "name": "AI To-Do Assistant",
+  "description": "An intelligent to-do management system powered by Gemini. It understands natural language, categorizes tasks, suggests priorities, provides summaries, and supports voice commands to help you manage tasks efficiently.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
